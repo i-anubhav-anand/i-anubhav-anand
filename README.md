@@ -66,7 +66,6 @@ ask_me:  Python · LangGraph · RAG · FastAPI · OpenCV
 <img src="https://img.shields.io/badge/Python-0b0e16?style=flat-square&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/TypeScript-0b0e16?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/JavaScript-0b0e16?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/C++-0b0e16?style=flat-square&logo=cplusplus&logoColor=00599C" />
 <img src="https://img.shields.io/badge/Bash-0b0e16?style=flat-square&logo=gnubash&logoColor=4EAA25" />
 <img src="https://img.shields.io/badge/SQL-0b0e16?style=flat-square&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/HTML5-0b0e16?style=flat-square&logo=html5&logoColor=E34F26" />
